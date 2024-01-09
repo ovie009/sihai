@@ -82,3 +82,10 @@ p {
     padding-inline: 30px;
     color: #ffffff;
 }
+
+.button_link {
+    background-color: #6bc8e7;
+    padding-inline: 20px;
+    padding-block: 5px;
+    border-radius: 5px;
+}
